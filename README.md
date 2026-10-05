@@ -1,60 +1,162 @@
-# healthcare-data-analytics-journey
-
-# Day 1 - Excel Fundamentals
-
-## Goal
-
-Learn the basic Excel environment and create my first healthcare dataset.
-
-## Topics Learned
-
-- Workbook vs worksheet
-- Rows and columns
-- Cells and cell references
-- Data entry
-- Basic formatting
-- Date formatting
-- Currency formatting
-- Excel Tables
-
-## Healthcare Dataset
-
-Created a synthetic patient visit dataset containing:
-
-- Patient ID
-- Patient name
-- Age
-- Gender
-- Department
-- Visit date
-- Insurance
-- Visit cost
-
-## Excel Skills Practiced
-
-- Entering structured data
-- Formatting dates
-- Formatting currency
-- Adjusting column widths
-- Creating an Excel Table
-- Navigating cells and ranges
-
-## Day 1 Challenge
-
-Created a 15-patient healthcare dataset and identified patient information manually.
-
-## What I Learned
-
-- With this Day 1, I learned basic of Excels like workbook, Columns and Rows.
-- Cells = Intersection of Column and Row
-- Table insert, formatting cells
-- Formatted dates
-- Formatted costs as currency
-- Adjusted column widths
-- Converted data into an Excel Table
-- Named table Patients
+\# Healthcare Data Analytics Journey
 
 
-## Next Step
 
-Day 2 - Excel formatting and data organization.
+Welcome to my Healthcare Data Analytics portfolio.
+
+
+
+This repository documents my hands-on transition from software development into healthcare data analytics. I am building practical skills in \*\*Excel, SQL, Power BI, healthcare data analysis, and Epic-related data concepts\*\* through structured learning and portfolio projects.
+
+
+
+The goal is not just to complete courses, but to demonstrate that I can take healthcare data, clean it, analyze it, visualize it, and communicate meaningful business insights.
+
+
+
+\---
+
+
+
+\## 🎯 Career Goal
+
+
+
+Build a career in \*\*Healthcare Data Analytics / Healthcare IT\*\*, with a long-term focus on roles involving:
+
+
+
+\- Healthcare Data Analysis
+
+\- Healthcare Business Intelligence
+
+\- Epic Data Analytics
+
+\- Clinical / Operational Analytics
+
+\- Healthcare Reporting
+
+\- Healthcare BI and Dashboard Development
+
+
+
+\---
+
+
+
+\## 🛠️ Skills I'm Building
+
+
+
+\### Excel
+
+\- Data organization and cleaning
+
+\- Formulas and functions
+
+\- XLOOKUP / VLOOKUP
+
+\- IF, COUNTIF, SUMIF, COUNTIFS, SUMIFS
+
+\- PivotTables
+
+\- PivotCharts
+
+\- Conditional formatting
+
+\- Power Query
+
+\- Healthcare dashboards
+
+
+
+\### SQL
+
+\- SELECT and filtering
+
+\- JOINs
+
+\- GROUP BY and aggregations
+
+\- CASE statements
+
+\- Subqueries
+
+\- CTEs
+
+\- Window functions
+
+\- Healthcare data analysis
+
+
+
+\### Power BI
+
+\- Data modeling
+
+\- Power Query
+
+\- DAX
+
+\- Interactive dashboards
+
+\- Healthcare KPIs
+
+\- Data visualization
+
+\- Business reporting
+
+
+
+\### Healthcare Analytics
+
+\- Patient visit analysis
+
+\- Healthcare operations
+
+\- Claims and revenue analysis
+
+\- Appointment analytics
+
+\- Healthcare data quality
+
+\- Provider and department analysis
+
+\- Healthcare KPIs
+
+\- Epic-related concepts
+
+
+
+\---
+
+
+
+\# 📚 Learning Roadmap
+
+
+
+```text
+
+Excel
+
+&#x20; ↓
+
+SQL
+
+&#x20; ↓
+
+Power BI
+
+&#x20; ↓
+
+Healthcare Data Analytics
+
+&#x20; ↓
+
+Epic / Healthcare IT Concepts
+
+&#x20; ↓
+
+Healthcare Data Analyst / Epic Analytics Roles
+
